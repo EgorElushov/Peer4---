@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "tP6AtXz1fjLGhwRebQmiW8Et8Xm5SUq6FORWxQK6D3YNAn0xwp3jZmElXen6+XuaiWUPQURkS4ccN0Tp4Ot6uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\egor-\\Desktop\\Егор\\ВШЭ\\Прога\\peer_4\\peer_4\\peer_4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\egor-\\.nuget\\packages\\fctb\\2.16.24\\fctb.2.16.24.nupkg.sha512",
+    "C:\\Users\\egor-\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"FCTB 2.16.24\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net5.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "FCTB",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}
